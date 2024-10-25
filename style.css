@@ -82,7 +82,9 @@ header > h1{
     cursor: pointer;
     background: rgb(225, 203, 255);
 }
-
+.imagem{
+    width: 50px;
+}
 #action-message{
     text-align: center;
     color: white;
